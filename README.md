@@ -1,5 +1,5 @@
 <h1 align="center">🧑‍💻 Victor Santos</h1>
-<h3 align="center">Hi, I'm Victor, I'm 19 years old and I'm natural from Sao paulo / Brazil. Currently graduating in systems analysis and development at SENACSP and working as analyst for MC1 Global. I love programming and technology. Im very curious about everything, everyday trying to learn more and more.</h3>
+<h4 align="center">Hi, I'm Victor, I'm 19 years old and I'm natural from Sao paulo / Brazil. Currently graduating in systems analysis and development at SENACSP and working as analyst for MC1 Global. I love programming and technology. Im very curious about everything, everyday trying to learn more and more.</h4>
 
 - 🔭 I’m currently working on [Comprez](https://github.com/vitxzap/comprez-ui)
 
